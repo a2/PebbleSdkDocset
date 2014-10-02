@@ -1,5 +1,8 @@
 var searchData=
 [
+  ['watch_5finfo_5fget_5fcolor',['watch_info_get_color',['../group___watch_info.html#ga7c910729d4df6ad1d72f59882cdd4f59',1,'pebble.h']]],
+  ['watch_5finfo_5fget_5ffirmware_5fversion',['watch_info_get_firmware_version',['../group___watch_info.html#gaf99195f1204c3c6b646b6f1ccbd561bb',1,'pebble.h']]],
+  ['watch_5finfo_5fget_5fmodel',['watch_info_get_model',['../group___watch_info.html#gaae6bd337ed913660097b24fcf4ff8265',1,'pebble.h']]],
   ['window_5fcreate',['window_create',['../group___window.html#gad97e085cc35ca1f5a6f713918089374c',1,'pebble.h']]],
   ['window_5fdestroy',['window_destroy',['../group___window.html#ga820c1ac9478c640ee5c43ec79c70ce47',1,'pebble.h']]],
   ['window_5fget_5fclick_5fconfig_5fcontext',['window_get_click_config_context',['../group___window.html#ga5be1adcc8915381d97b9b268d089d496',1,'pebble.h']]],
@@ -26,5 +29,7 @@ var searchData=
   ['window_5fstack_5fpop',['window_stack_pop',['../group___window_stack.html#gaedab08317d26dca178a994563db77862',1,'pebble.h']]],
   ['window_5fstack_5fpop_5fall',['window_stack_pop_all',['../group___window_stack.html#gacfbb60a6addd140d2b94f659b8630306',1,'pebble.h']]],
   ['window_5fstack_5fpush',['window_stack_push',['../group___window_stack.html#gabc91655655af8fd71ac7c081f40d69b2',1,'pebble.h']]],
-  ['window_5fstack_5fremove',['window_stack_remove',['../group___window_stack.html#ga44a239d564b96ca93a149a29d89707d1',1,'pebble.h']]]
+  ['window_5fstack_5fremove',['window_stack_remove',['../group___window_stack.html#ga44a239d564b96ca93a149a29d89707d1',1,'pebble.h']]],
+  ['worker_5fevent_5floop',['worker_event_loop',['../group___worker.html#gaba624492af6173015c4923120fa47e35',1,'pebble_worker.h']]],
+  ['worker_5flaunch_5fapp',['worker_launch_app',['../group___worker.html#ga4ac41d61177b9b631a1a09f04eaf4b2c',1,'pebble_worker.h']]]
 ];

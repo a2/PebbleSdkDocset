@@ -9,6 +9,7 @@ var searchData=
   ['inverter_5flayer_5fget_5flayer',['inverter_layer_get_layer',['../group___inverter_layer.html#gadf3c58efc94f09cd8890cbb9ffc63a34',1,'pebble.h']]],
   ['inverterlayer',['InverterLayer',['../group___inverter_layer.html',1,'']]],
   ['is_5fcharging',['is_charging',['../group___battery_state_service.html#a1a2d28c28d3d230b5f8fe2fd089ff9dd',1,'BatteryChargeState']]],
+  ['is_5fdeclination_5fvalid',['is_declination_valid',['../group___compass_service.html#a244791d533094a407a3879686d532afd',1,'CompassHeadingData']]],
   ['is_5fplugged',['is_plugged',['../group___battery_state_service.html#a00910c85f1f068363a7b400151b7f8e4',1,'BatteryChargeState']]],
   ['items',['items',['../group___simple_menu_layer.html#a377ff366a71e19cfe6c1dbb8f233f91b',1,'SimpleMenuSection']]]
 ];

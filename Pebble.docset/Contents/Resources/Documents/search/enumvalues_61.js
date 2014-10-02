@@ -7,6 +7,8 @@ var searchData=
   ['accel_5fsampling_5f10hz',['ACCEL_SAMPLING_10HZ',['../group___accelerometer_service.html#gga8aab5de9ee899fea12c4c957c2178faeace78d0dca57efd817bb042b08498aa86',1,'pebble.h']]],
   ['accel_5fsampling_5f25hz',['ACCEL_SAMPLING_25HZ',['../group___accelerometer_service.html#gga8aab5de9ee899fea12c4c957c2178faea51bc931568b736a44bba10aa1d23962a',1,'pebble.h']]],
   ['accel_5fsampling_5f50hz',['ACCEL_SAMPLING_50HZ',['../group___accelerometer_service.html#gga8aab5de9ee899fea12c4c957c2178faeacf408daf2f2be43d16fc0a688337976f',1,'pebble.h']]],
+  ['animationcurve_5freserved1',['AnimationCurve_Reserved1',['../group___animation.html#ggaf481a363d622c146285096e6395d9ec8a678600a8f792519bf7279c520e62a4a5',1,'pebble.h']]],
+  ['animationcurvecustomfunction',['AnimationCurveCustomFunction',['../group___animation.html#ggaf481a363d622c146285096e6395d9ec8a77e4fbe61f88241bf371cfc96edf52be',1,'pebble.h']]],
   ['animationcurveeasein',['AnimationCurveEaseIn',['../group___animation.html#ggaf481a363d622c146285096e6395d9ec8af02b78b3839b10b84309c5a6fc1cedae',1,'pebble.h']]],
   ['animationcurveeaseinout',['AnimationCurveEaseInOut',['../group___animation.html#ggaf481a363d622c146285096e6395d9ec8a06d9643acfd6ced6e5b1b851b4f0b7de',1,'pebble.h']]],
   ['animationcurveeaseout',['AnimationCurveEaseOut',['../group___animation.html#ggaf481a363d622c146285096e6395d9ec8a74d22c9dbe9c71aca41cbf4913418a7a',1,'pebble.h']]],
@@ -29,5 +31,11 @@ var searchData=
   ['app_5fmsg_5fok',['APP_MSG_OK',['../group___app_message.html#gga695a78c926b20edbb14d7faf5a78c29ea12a6ea49b151222e76cf4b99b7c0c4cc',1,'pebble.h']]],
   ['app_5fmsg_5fout_5fof_5fmemory',['APP_MSG_OUT_OF_MEMORY',['../group___app_message.html#gga695a78c926b20edbb14d7faf5a78c29ead1cce21da2d8b46e305f9550a7384238',1,'pebble.h']]],
   ['app_5fmsg_5fsend_5frejected',['APP_MSG_SEND_REJECTED',['../group___app_message.html#gga695a78c926b20edbb14d7faf5a78c29eadba700a7db67d4238d24e7379b69fba3',1,'pebble.h']]],
-  ['app_5fmsg_5fsend_5ftimeout',['APP_MSG_SEND_TIMEOUT',['../group___app_message.html#gga695a78c926b20edbb14d7faf5a78c29ea4a03bcc21fc33a6acc7d73188b2b4b21',1,'pebble.h']]]
+  ['app_5fmsg_5fsend_5ftimeout',['APP_MSG_SEND_TIMEOUT',['../group___app_message.html#gga695a78c926b20edbb14d7faf5a78c29ea4a03bcc21fc33a6acc7d73188b2b4b21',1,'pebble.h']]],
+  ['app_5fworker_5fresult_5falready_5frunning',['APP_WORKER_RESULT_ALREADY_RUNNING',['../group___app_worker.html#gga9732697a0e5e5718dfb265e061ec6a5daf21c365a14cf7268d9b5bc1bc37eb70a',1,'pebble.h']]],
+  ['app_5fworker_5fresult_5fasking_5fconfirmation',['APP_WORKER_RESULT_ASKING_CONFIRMATION',['../group___app_worker.html#gga9732697a0e5e5718dfb265e061ec6a5dabca8de916dae9cf8dd28bd2b4fea9701',1,'pebble.h']]],
+  ['app_5fworker_5fresult_5fdifferent_5fapp',['APP_WORKER_RESULT_DIFFERENT_APP',['../group___app_worker.html#gga9732697a0e5e5718dfb265e061ec6a5da848f57b881f82a472439b8519b34732c',1,'pebble.h']]],
+  ['app_5fworker_5fresult_5fno_5fworker',['APP_WORKER_RESULT_NO_WORKER',['../group___app_worker.html#gga9732697a0e5e5718dfb265e061ec6a5da9b36919aa66f787b95ae3dbe964c52ef',1,'pebble.h']]],
+  ['app_5fworker_5fresult_5fnot_5frunning',['APP_WORKER_RESULT_NOT_RUNNING',['../group___app_worker.html#gga9732697a0e5e5718dfb265e061ec6a5daed4965d390f0ca313b0daf102469ab54',1,'pebble.h']]],
+  ['app_5fworker_5fresult_5fsuccess',['APP_WORKER_RESULT_SUCCESS',['../group___app_worker.html#gga9732697a0e5e5718dfb265e061ec6a5da94009622897d84fdf4d254c45a50b6bd',1,'pebble.h']]]
 ];
